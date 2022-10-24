@@ -3,7 +3,7 @@ Best Self bot of 2022, 100% Work²
 <hml>
 <div> SelfBot Floco </div>
 <h1> Require </h1>
-<p> Pour installer Les require Ouvrer un terminal dans le dossier du selfbot et faite </br></br> <b> pip install requirement -r </b> </p>
+<p> Pour installer les requires, exécuter un terminal dans le dossier ou se trouve le selfbot et taper</br></br> <b> pip install requirement -r </b> </p>
 <h1> Image logs </h1>
 <p><b>Run logs</b> </br> <img src = "https://media.discordapp.net/attachments/1033167238796148806/1034138602206150656/runlogs.png">
 <p><b>Join  et leave logs</b> </p> </br> <img src = "https://media.discordapp.net/attachments/1033167238796148806/1034138864022999161/joinleavelogs.png">
